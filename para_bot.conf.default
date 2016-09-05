@@ -2,7 +2,7 @@
 
 # bots token here
 # e.g 
-TOKEN= 259848345:AAHTP93gFJZA-kqUrVXvoNc944OL0UjBirM
+TOKEN= 
 
 # bot have no ability to leave a group
 # list allowed group/chat_id into an array
