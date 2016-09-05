@@ -1,8 +1,8 @@
 # rename this file to para_bot.conf
 
 # bots token here
-# e.g 259848345:AAHTP93gFJZA-kqUrVXvoNc944OL0UjBirM
-TOKEN=
+# e.g 
+TOKEN= 259848345:AAHTP93gFJZA-kqUrVXvoNc944OL0UjBirM
 
 # bot have no ability to leave a group
 # list allowed group/chat_id into an array
